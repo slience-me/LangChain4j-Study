@@ -8,12 +8,16 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="langchain4j-01helloworld" />
+        <module name="langchain4j-02multi-model-together" />
+        <module name="langchain4j-03boot-integration" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="langchain4j-01helloworld" options="-parameters" />
+      <module name="langchain4j-02multi-model-together" options="-parameters" />
+      <module name="langchain4j-03boot-integration" options="-parameters" />
       <module name="langchain4j-sliencemeV5" options="-parameters" />
     </option>
   </component>

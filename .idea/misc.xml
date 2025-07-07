@@ -6,6 +6,8 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/langchain4j-01helloworld/pom.xml" />
+        <option value="$PROJECT_DIR$/langchain4j-02multi-model-together/pom.xml" />
+        <option value="$PROJECT_DIR$/langchain4j-03boot-integration/pom.xml" />
       </list>
     </option>
   </component>
