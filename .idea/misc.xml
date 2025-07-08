@@ -8,6 +8,17 @@
         <option value="$PROJECT_DIR$/langchain4j-01helloworld/pom.xml" />
         <option value="$PROJECT_DIR$/langchain4j-02multi-model-together/pom.xml" />
         <option value="$PROJECT_DIR$/langchain4j-03boot-integration/pom.xml" />
+        <option value="$PROJECT_DIR$/langchain4j-04low-high-api/pom.xml" />
+        <option value="$PROJECT_DIR$/langchain4j-05model-parameters/pom.xml" />
+        <option value="$PROJECT_DIR$/langchain4j-06chat-image/pom.xml" />
+        <option value="$PROJECT_DIR$/langchain4j-07chat-stream/pom.xml" />
+        <option value="$PROJECT_DIR$/langchain4j-08chat-memory/pom.xml" />
+        <option value="$PROJECT_DIR$/langchain4j-09chat-prompt/pom.xml" />
+        <option value="$PROJECT_DIR$/langchain4j-10chat-persistence/pom.xml" />
+        <option value="$PROJECT_DIR$/langchain4j-11chat-functioncalling/pom.xml" />
+        <option value="$PROJECT_DIR$/langchain4j-12chat-embedding/pom.xml" />
+        <option value="$PROJECT_DIR$/langchain4j-13chat-rag01/pom.xml" />
+        <option value="$PROJECT_DIR$/langchain4j-14chat-mcp/pom.xml" />
       </list>
     </option>
   </component>

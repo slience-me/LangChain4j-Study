@@ -7,17 +7,39 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="langchain4j-01helloworld" />
-        <module name="langchain4j-02multi-model-together" />
-        <module name="langchain4j-03boot-integration" />
+        <module name="langchain4j-14-chat-mcp" />
+        <module name="langchain4j-05-model-parameters" />
+        <module name="langchain4j-07-chat-stream" />
+        <module name="langchain4j-09-chat-prompt" />
+        <module name="langchain4j-12-chat-embedding" />
+        <module name="langchain4j-08-chat-memory" />
+        <module name="langchain4j-02-multi-model-together" />
+        <module name="langchain4j-03-boot-integration" />
+        <module name="langchain4j-01-helloworld" />
+        <module name="langchain4j-06-chat-image" />
+        <module name="langchain4j-10-chat-persistence" />
+        <module name="langchain4j-11-chat-functioncalling" />
+        <module name="langchain4j-04-low-high-api" />
+        <module name="langchain4j-13-chat-rag01" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="langchain4j-01helloworld" options="-parameters" />
-      <module name="langchain4j-02multi-model-together" options="-parameters" />
-      <module name="langchain4j-03boot-integration" options="-parameters" />
+      <module name="langchain4j-01-helloworld" options="-parameters" />
+      <module name="langchain4j-02-multi-model-together" options="-parameters" />
+      <module name="langchain4j-03-boot-integration" options="-parameters" />
+      <module name="langchain4j-04-low-high-api" options="-parameters" />
+      <module name="langchain4j-05-model-parameters" options="-parameters" />
+      <module name="langchain4j-06-chat-image" options="-parameters" />
+      <module name="langchain4j-07-chat-stream" options="-parameters" />
+      <module name="langchain4j-08-chat-memory" options="-parameters" />
+      <module name="langchain4j-09-chat-prompt" options="-parameters" />
+      <module name="langchain4j-10-chat-persistence" options="-parameters" />
+      <module name="langchain4j-11-chat-functioncalling" options="-parameters" />
+      <module name="langchain4j-12-chat-embedding" options="-parameters" />
+      <module name="langchain4j-13-chat-rag01" options="-parameters" />
+      <module name="langchain4j-14-chat-mcp" options="-parameters" />
       <module name="langchain4j-sliencemeV5" options="-parameters" />
     </option>
   </component>

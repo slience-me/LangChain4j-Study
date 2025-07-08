@@ -11,9 +11,20 @@
     <name>langchain4j-sliencemeV5</name>
 
     <modules>
-        <module>langchain4j-01helloworld</module>
-        <module>langchain4j-02multi-model-together</module>
-        <module>langchain4j-03boot-integration</module>
+        <module>langchain4j-01-helloworld</module>
+        <module>langchain4j-02-multi-model-together</module>
+        <module>langchain4j-03-boot-integration</module>
+        <module>langchain4j-04-low-high-api</module>
+        <module>langchain4j-05-model-parameters</module>
+        <module>langchain4j-06-chat-image</module>
+        <module>langchain4j-07-chat-stream</module>
+        <module>langchain4j-08-chat-memory</module>
+        <module>langchain4j-09-chat-prompt</module>
+        <module>langchain4j-10-chat-persistence</module>
+        <module>langchain4j-11-chat-functioncalling</module>
+        <module>langchain4j-12-chat-embedding</module>
+        <module>langchain4j-13-chat-rag01</module>
+        <module>langchain4j-14-chat-mcp</module>
     </modules>
 
     <properties>
